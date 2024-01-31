@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-im known as theh mamong us impsoter
+QUL HUWAALLAH HUAHAD
+ALLAHUSUMAD
+LAAM YALID WALEM YULED
+WELEM YUKUN LAHU QUFUWAN AHAD.
+
