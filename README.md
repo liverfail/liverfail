@@ -5,6 +5,7 @@
   <p>poop mode</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers" />
+  <br/>
   </a>
   <br/>
   <picture>
