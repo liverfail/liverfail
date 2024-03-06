@@ -15,9 +15,9 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&theme=dark&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&show_icons=true" />
   </picture>
 </p>
