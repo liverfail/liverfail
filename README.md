@@ -1,7 +1,8 @@
-### Hi there 👋
+### Deniied
+
 
 <p align="center">
-  <br/><p>Deniied</p><br/><p>poop mode</p>
+  <p>poop mode</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers" />
   </a>
