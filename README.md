@@ -1,6 +1,6 @@
 ### Deniied
 
-
+<center>
 <p align="center">
   <p>stuff i use</p>
   <a href="https://skillicons.dev">
@@ -17,3 +17,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Deniied0&show_icons=true" />
   </picture>
 </p>
+</center>
