@@ -16,12 +16,10 @@
 </p>
 
 <p><strong>STATUS</strong></p>
-<a href="#">
 
-![status](https://nocache.advaith.workers.dev?url=https://api.statusbadges.me/badge/status/427201750823469096?simple=true)
-![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)
+<a href="#">![status](https://nocache.advaith.workers.dev?url=https://api.statusbadges.me/badge/status/427201750823469096?simple=true)</a>
+<a href="#">![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)</a?
 
-</a>
 <p><strong>STATS</strong></p>  
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
