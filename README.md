@@ -10,10 +10,7 @@
 
 <p align="center">
 
-![skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html)
-
-![skills](https://skillicons.dev/icons?i=kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github)
-
+![skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github&perline=8)
 ![skills](https://skillicons.dev/icons?i=linux,notion,npm,raspberrypi,replit,workers)
 
 
