@@ -11,7 +11,6 @@
 <p><strong>STATUS</strong></p>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/427201750823469096?simple=true)
-
 ![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)
 
 <details>
