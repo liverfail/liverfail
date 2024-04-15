@@ -17,5 +17,4 @@
 <p><strong>STATS</strong></p>  
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
