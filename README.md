@@ -1,11 +1,18 @@
 # Marhaba Kefak! 👋
+
+<div align="center">
+
 <p><strong>INTRODUCTION</strong></p>
 
 **I'm Deniied** - I'm a Muslim, backend developer, and computer science student. I'm interested in learning more about Islam, creating applications that benefit people, and learning from and making friends with smart people.
 
 <p><strong>SKILLS</strong></p>
 
+<p align="center">
+
 ![skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers)
+
+</p>
 
 <p><strong>STATUS</strong></p>
 
@@ -16,3 +23,5 @@
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+
+</div>
