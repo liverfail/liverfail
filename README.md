@@ -1,5 +1,6 @@
 # Marhaba Kefak! 👋
 <p><strong>INTRODUCTION</strong></p>
+
 **I'm Deniied** - I'm a Muslim, backend developer, and computer science student. I'm interested in learning more about Islam, creating applications that benefit people, and learning from and making friends with smart people.
 
 <p><strong>SKILLS</strong></p>
