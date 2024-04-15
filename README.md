@@ -3,9 +3,15 @@
 **I'm Deniied** - I'm a Muslim, backend developer, and computer science student. I'm interested in learning more about Islam, creating applications that benefit people, and learning from and making friends with smart people.
 
 <p><strong>SKILLS</strong></p>
-![skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers)<br/>
+
+![skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers)
+
+<br/>
+
 <p><strong>STATUS</strong></p>
+
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/427201750823469096?simple=true)
+
 ![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)
 
 <details>
