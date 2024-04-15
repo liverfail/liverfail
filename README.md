@@ -13,9 +13,7 @@
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/427201750823469096?simple=true)
 ![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)
 
-<details>
-  <p><strong>STATS</strong></p>  
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
-</details>
+<br/>
+<p><strong>STATS</strong></p>  
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
