@@ -1,20 +1,16 @@
-### Deniied
+# Marhaba Kefak! 👋
+<p><strong>INTRODUCTION</strong></p>
+**I'm Deniied** - I'm a Muslim, backend developer, and computer science student. I'm interested in learning more about Islam, creating applications that benefit people, and learning from and making friends with smart people.
 
-<center>
-<p align="center">
-  <p>stuff i use</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers" />
-  <br/>
-  </a>
-  <br/>
-  <p>stats</p>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Deniied0&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Deniied0&show_icons=true" />
-  </picture>
-</p>
-</center>
+<p><strong>SKILLS</strong></p>
+![skills](https://skillicons.dev/icons?i=cpp,cs,lua,js,go,godot,java,html,kotlin,nodejs,vscodium,bootstrap,cloudflare,debian,express,github,linux,notion,npm,raspberrypi,replit,workers)<br/>
+<p><strong>STATUS</strong></p>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/427201750823469096?simple=true)
+![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)
+
+<details>
+  <p><strong>STATS</strong></p>  
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+</details>
