@@ -1,4 +1,4 @@
-<h1 align="center">Marhaba Kefak! 👋</h1>
+<h1 align="center">Marhaba Salam! 👋</h1>
 
 <div align="center">
 
