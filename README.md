@@ -4,7 +4,7 @@
 
 <p><strong>INTRODUCTION</strong></p>
 
-**I'm Deniied** <br/>
+**I'm liverfail** <br/>
 I'm a Muslim, backend developer, and computer science student. <br/>
 I'm interested in learning more about Islam, creating applications that benefit people, <br/>
 and learning from and making friends with smart people. <br/>
