@@ -21,11 +21,11 @@ and learning from and making friends with smart people. <br/>
 <p><strong>STATUS</strong></p>
 
 <a href="#">![status](https://nocache.advaith.workers.dev?url=https://api.statusbadges.me/badge/status/427201750823469096?simple=true)</a>
-<a href="#">![views](https://komarev.com/ghpvc/?username=Deniied0&color=D22B2B)</a>
+<a href="#">![views](https://komarev.com/ghpvc/?username=liverfail&color=D22B2B)</a>
 
 <p><strong>STATS</strong></p>  
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Deniied0&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniied0&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=liverfail&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liverfail&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
 
 </div>
