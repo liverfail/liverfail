@@ -20,7 +20,6 @@ and learning from and making friends with smart people. <br/>
 
 <p><strong>STATUS</strong></p>
 
-<a href="#">![status](https://nocache.advaith.workers.dev?url=https://api.statusbadges.me/badge/status/427201750823469096?simple=true)</a>
 <a href="#">![views](https://komarev.com/ghpvc/?username=liverfail&color=D22B2B)</a>
 
 <p><strong>STATS</strong></p>  
